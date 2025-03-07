@@ -1,0 +1,440 @@
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Redis Projekat\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\appsettings.json
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+E:\Faks\4.god\napredne baze\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\appsettings.json
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+C:\Users\Anastasija\Desktop\Redis Projekat\Redis Projekat\Redis Projekat\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\appsettings.json
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+E:\Faks\4.god\napredne baze\anas\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Admin\Desktop\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\appsettings.json
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Scrutor.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\System.Text.Json.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+E:\Faks\4.god\napredne baze\NBP celo\NBP celo\Poslednje spojeno\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Scrutor.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Poslednje spojeno darija\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\appsettings.json
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Scrutor.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\System.Text.Json.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+E:\Faks\4.god\napredne baze\novoProj\RedisRestorani (1)\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\appsettings.Development.json
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\appsettings.json
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\RedisRestorani.exe
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\RedisRestorani.deps.json
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\RedisRestorani.runtimeconfig.json
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\RedisRestorani.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\RedisRestorani.pdb
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Scrutor.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\System.Text.Json.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.AssemblyReference.cache
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfoInputs.cache
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.AssemblyInfo.cs
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CoreCompileInputs.cache
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cs
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.MvcApplicationPartsAssemblyInfo.cache
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\staticwebassets.build.json
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\staticwebassets.development.json
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.RedisRestorani.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisRestorani.props
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisRestorani.props
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisRestorani.props
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\scopedcss\bundle\RedisRestorani.styles.css
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.csproj.CopyComplete
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\refint\RedisRestorani.dll
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.pdb
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\RedisRestorani.genruntimeconfig.cache
+E:\Git\GitRedis\backRestorani\RedisRestorani\obj\Debug\net8.0\ref\RedisRestorani.dll
